@@ -1,6 +1,6 @@
-#Github Intro Notes
+# Github Intro Notes
 
-##First Day of coding in the charlie cohort
+## First Day of coding in the charlie cohort
 
 ### Vocabulary
 -Git
