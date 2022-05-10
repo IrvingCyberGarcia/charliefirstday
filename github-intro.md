@@ -3,10 +3,10 @@
 ## First Day of coding in the charlie cohort
 
 ### Vocabulary
-- Git
-- Github
-- branch
-- remote and local
-- repo (repository)
-- clone
+- Git - software that creates version control
+- Github - online platform that uses git technology
+- branch - pathway between local and remote
+- remote and local -
+- repo (repository) - named folder on github
+- clone - copy 
 - push and pull - action of moving code to branch between local and remote
